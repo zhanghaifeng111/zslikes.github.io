@@ -69,5 +69,5 @@ theme: raytaylorism
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
    type: git
-   repo: git@github.com:zslikes/zsgoog.github.io.git
+   repo: git@github.com:zslikes/zslikes.github.io.git
    branch: master
