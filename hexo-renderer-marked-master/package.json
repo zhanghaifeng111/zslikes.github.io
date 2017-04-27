@@ -1,0 +1,28 @@
+{
+  "name": "hexo-renderer-marked",
+  "version": "0.1.0",
+  "description": "Markdown renderer plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hexojs/hexo-renderer-marked.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hexojs/hexo-renderer-marked/issues"
+  },
+  "keywords": [
+    "hexo",
+    "markdown",
+    "marked",
+    "renderer"
+  ],
+  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/tommy351/hexo/master/LICENSE"
+  },
+  "dependencies": {
+    "marked": "^0.3.2",
+    "lodash": "^2.4.1"
+  }
+}
